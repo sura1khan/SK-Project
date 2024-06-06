@@ -93,15 +93,14 @@ border-color:var(--pure) ;}
   margin-left: 150px;
   margin-top: 20px;
   }
-  .media{
-    display: flex;
-    justify-content: center;
-   
-  }
+  
   
   @media only screen and (min-width:200px) and (max-width:557px){
     body {
-      background-color: rgb(80, 142, 204);
+        background-color:var(--turnary);
     
     }
   }
+
+
+   
