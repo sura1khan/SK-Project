@@ -43,13 +43,11 @@ border-radius: 100%;
     color: var(--turnary);
 }
 .banner .right p{
-    line-height: 1;
-    font-weight: 50;
-    word-spacing: 3px;
-    margin-bottom: 2rem;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 15px ;
- font-weight: bold;
+    color: rgb(230, 227, 227);
+    line-height: 1.5;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-bottom: 1rem;
+  
    
 }
 section{
