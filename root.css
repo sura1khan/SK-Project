@@ -99,7 +99,7 @@ border-color:var(--pure) ;}
    
   }
   
-  @media only screen and (min-width:360px) and (max-width:877px){
+  @media only screen and (min-width:200px) and (max-width:557px){
     body {
       background-color: rgb(80, 142, 204);
     
